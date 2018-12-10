@@ -1,7 +1,7 @@
 # Summary
 
 * [简介](README.md)
-* [tourism is a game](thourism is a game.md)
+* [tourism is a game](thourism-is-a-game.md)
 * [小谈tittytainment](小谈tittytainment.md)
 * [自寻烦恼](自寻烦恼.md)
 * [感性生活与理性生活](感性生活与理性生活.md)
