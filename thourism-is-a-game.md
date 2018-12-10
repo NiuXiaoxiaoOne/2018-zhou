@@ -1,7 +1,8 @@
 ![1](https://gitee.com/pyshi3/pyshi3_library/raw/master/2018-zhou-piano/tourism-is-a-game.jpg)
 
-### tourism is a game.
+**tourism is a game.**
 
+---
 
 for a time being by escaping from current environment. while the reality only give you one option which is often imprefect and painful.
 
