@@ -1,0 +1,11 @@
+{
+  "name": "npm-gitbook2018-12-9",
+  "version": "1.0.0",
+  "description": "gitbook-2018zhou",
+  "main": "index.js",
+  "scripts": {
+    "test": "1"
+  },
+  "author": "",
+  "license": "ISC"
+}
