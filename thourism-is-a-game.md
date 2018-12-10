@@ -1,4 +1,4 @@
-![1](https://gitee.com/pyshi3/pyshi3_library/raw/master/2018-zhou-piano/tourism-is-a-game.jpg)
+![1](https://love2.io/@niuxiaoxiaoone/doc/2018-zhou)
 
 **tourism is a game.**
 
