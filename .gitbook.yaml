@@ -1,11 +1,11 @@
 
-t: ./2018zhou/
+root: ./2018zhou/
 
 # Files to use as SUMMARY/README.
 # # (Relative to <root> directory)
-# structure:
-#   readme:  README.md
-#   summary: SUMMARY.md
+structure:
+  readme:  README.md
+  summary: SUMMARY.md
 #
 #     # Redirect urls to specific files (relative to the <root> directory)
 #     #redirects:
