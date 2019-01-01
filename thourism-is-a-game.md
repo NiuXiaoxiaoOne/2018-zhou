@@ -1,4 +1,4 @@
-![1](http://t1.aixinxi.net/o_1cubohoj8acbdfo1k2q16ci1pc3a.jpg-w.jpg)
+![1](images/1.jpg)
 
 **tourism is a game.**
 
