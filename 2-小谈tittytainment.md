@@ -1,4 +1,4 @@
-![1](images/2.jpg)
+![1](https://hello-beijing.oss-cn-beijing.aliyuncs.com/myGithub/MrZ/2.jpg)
 
 ### 小谈Tittytainment
 ---

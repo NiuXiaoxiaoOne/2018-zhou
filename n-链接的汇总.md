@@ -1,4 +1,4 @@
-![1](images/n.jpg)
+![1](https://hello-beijing.oss-cn-beijing.aliyuncs.com/myGithub/MrZ/n.jpg)
 
 ### 链接的汇总
 ---

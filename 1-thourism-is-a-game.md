@@ -1,4 +1,4 @@
-![1](images/1.jpg)
+![1](https://hello-beijing.oss-cn-beijing.aliyuncs.com/myGithub/MrZ/1.jpg)
 
 **tourism is a game.**
 
